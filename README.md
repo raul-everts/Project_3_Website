@@ -1,5 +1,6 @@
 <h1>Project 3 - Forge Fitness</h1>
 Supervisor: W Olivier
+
 Group members:
 
  Adriaan van der Westhuizen - 240436415<br>
